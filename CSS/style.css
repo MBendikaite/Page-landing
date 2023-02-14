@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #home{
-    background: url("/assets/images/hero-3-bg.png") no-repeat top center / cover;
+   background: url("/assets/images/hero-3-bg.png");
     padding: 170px 0 140px;
 }
 
