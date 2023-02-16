@@ -966,7 +966,7 @@ padding: 10px;
 
 #footer{
    position: relative;
-    background: url("assets/images/footer-light-bg.png.png");
+    background: url("/assets/images/footer-light-bg.png.png");
     background-color: #343a40 !important;
     background-repeat: no-repeat;
     background-position: center;
