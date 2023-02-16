@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #home{
-   background-image: url('../assets/images/hero-3-bg.png.png');
+   background-image: url('/assets/images/hero-3-bg.png.png');
     padding: 170px 0 140px;
 }
 
@@ -424,7 +424,7 @@ color: #6c757d!important;
     padding-right: 80px;
 }
  #features-2{
-    background: url("../assets/images/features-bg.png") no-repeat top center / cover;
+    background: url("/assets/images/features-bg.png") no-repeat top center / cover;
     background-color: #f8f9fa !important;
     padding-top: 90px;
     padding-bottom: 90px !important;
@@ -455,7 +455,7 @@ color: #6c757d!important;
 
 #counter{
     position: relative;
-    background: url("../assets/images/counter-bg.png.jpg");
+    background: url("/assets/images/counter-bg.png.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
